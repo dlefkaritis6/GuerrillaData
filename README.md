@@ -9,6 +9,11 @@ This is a Raspberry Pi project which is meant to serve as a medical data recorde
 * Auto conncting
 * Automatic file transfer
   * Same thing with ethernet
+  
+### Ad hoc network set up
+```python3
+print("Test")
+```
 
 ## Data Entry
 * Basic entry program
