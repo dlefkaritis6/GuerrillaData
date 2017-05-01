@@ -12,7 +12,8 @@ This is a Raspberry Pi project which is meant to serve as a medical data recorde
   
 ### Ad hoc network set up
 ```python3
-print("Test")
+cd /etc/network
+
 ```
 
 ## Data Entry
